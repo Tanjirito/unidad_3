@@ -1,0 +1,1 @@
+listado_usuarios =[{'id': 1, 'nombre': 'Usuario Prueba', 'rut': '12.345.678-5', 'nacionalidad': 'Chilena', 'telefono': '569 8765 4321', 'email': 'test@test.test', 'tipo_usuario': 'administrador', 'contrasena': b'$2b$12$VCtHPlKocO1dMN.qAEu70.im7XQXxTfnK2eOLWlc7pjQMWiaRpF1e'}]

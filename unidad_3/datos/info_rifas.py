@@ -1,0 +1,1 @@
+listado_rifas =[{'nombre': 'Rifa Test', 'precio': 100, 'cantidad_rifas': 100, 'numeros_rifa': 10, 'fecha_creacion': '10/6/2026', 'fecha_lanzamiento': '31/12/2026', 'premios': {'Premio 1': 'Premio 1', 'Premio 2': 'Premio 2', 'Premio 3': 'Premio 3'}}]
